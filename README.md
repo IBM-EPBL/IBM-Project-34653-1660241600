@@ -10,7 +10,9 @@ Team member : Sowndarya
 Team member : Sridhar
 
 Team member : Vishwa 
-
-ABOUT THE PROJECT:
+**
+ABOUT THE PROJECT:**
 
 The project aims to develop a system that converts the sign language into a human hearing voice in the desired language to convey a message to normal people, as well as convert speech into understandable sign language for the deaf and dumb.
+
+Drive Link: https://drive.google.com/file/d/1uz637QPmnA459k_YDe8QMC0cxNfnMCx0/view
