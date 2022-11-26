@@ -18,5 +18,3 @@ The project aims to develop a system that converts the sign language into a huma
 Drive Link: https://drive.google.com/file/d/1uz637QPmnA459k_YDe8QMC0cxNfnMCx0/view
 
 https://www.youtube.com/watch?v=Hzy6z4VfwEk&feature=youtu.be
-
-file:///C:/Users/Admin/Downloads/FINAL%20PROJECT%20REPORTS.pdf
